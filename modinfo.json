@@ -1,0 +1,14 @@
+{
+    "enabled" : true,
+    "context" : "client",
+    "identifier" : "ca.nixtempestas.hdrmod",
+    "display_name" : "Modded Post Processing Chain",
+    "description" : "exterminans' post changes to make things look better",
+    "author" : "exterminans",
+    "category": [
+      "appearance"
+    ],
+    "date" : "2015/05/26",
+    "version" : "1.0",
+    "signature" : "(not yet implemented)"
+}
